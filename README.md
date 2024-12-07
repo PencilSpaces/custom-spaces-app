@@ -1,4 +1,4 @@
-# Creating collaborative apps in Pencil Spaces
+# Mario: Create apps in Pencil Spaces
 
 This repo explains how you can build and host your first app in Pencil Spaces.
 
